@@ -94,9 +94,26 @@ Técnicas aplicadas:
  - Análise multidimensional por produto, país, ano, mês e segmento
 
 ### 📁Arquivos do Repositório:
- - 
+ - relatorio de vendas.pbix
+ - realtorio de vendas.pdf
+ - README.md
+
+### Objetivo do Projeto: 
+
+O relatório foi criado para fins de prática e demonstração, buscando:
+
+- Desenvolver habilidades em modelagem e visualização no Power BI
+- Oferecer uma narrativa visual clara e intuitiva
+- Analisar dados sob diferentes perspectivas de produto, país e segmento
+- Identificar tendências, padrões e oportunidades a partir dos dados
 
 
+Desenvolvido por: 
+
+💗Lais Lopes - Desenvolvedora Júnior Python, Java e TypeScritp
+
+📩 [Email](laisllopess21@gmail.com)
+ 👩‍💼 [linkedin](https://www.linkedin.com/in/lais-lopes-silva/)
 
 
 
